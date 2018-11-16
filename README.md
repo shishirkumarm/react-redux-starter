@@ -23,3 +23,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+### For REST API's refer below link
+http://reduxblog.herokuapp.com/
